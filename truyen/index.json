@@ -1,46 +1,12 @@
 [
   {
-    "id": "truyen-1",
-    "title": "Tần số cuối cùng",
-    "author": "Tác giả",
-    "genre": "Mạt thế",
+    "id": "tan-so-cuoi-cung",
+    "title": "Tần Số Cuối Cùng",
+    "author": "Đang cập nhật",
+    "genre": "Khoa Huyễn",
     "status": "Đang ra",
-    "desc": "TP.HCM – Một thành phố từng không bao giờ ngủ.
-
-Mọi thứ bắt đầu từ những vụ việc bất thường tại các bệnh viện. Những đoạn video ghi lại cảnh bệnh nhân mất kiểm soát, nhân viên y tế bỏ chạy và những tiếng la hét nhanh chóng lan truyền trên mạng xã hội.
-
-Ban đầu, mọi người nghĩ đó chỉ là một loại dịch bệnh kỳ lạ.
-
-Nhưng không ai biết rằng, thứ đang lây lan ấy mang tên NERV-01.
-
-Khi hệ thống liên lạc dần sụp đổ, những con đường quen thuộc biến thành nơi chết chóc, một nhóm bạn trẻ gồm Dũng, Hào, Đức Anh và Chu buộc phải tìm cách sinh tồn giữa thành phố đang tan rã.
-
-Họ không chỉ phải đối mặt với những sinh vật nhiễm bệnh ngày càng biến dị, mà còn phải tìm hiểu những bí ẩn vượt xa sự hiểu biết của con người.
-
-Một chiếc radio kỳ lạ bắt đầu thu được những tín hiệu không thuộc về hiện tại.
-
-Có tín hiệu đến từ quá khứ.
-
-Có tín hiệu đến từ tương lai.
-
-Và có những giọng nói dường như biết rõ mọi chuyện sắp xảy ra.
-
-Trong khi đó, một màn sương trắng bí ẩn mang tên WHITE VEIL dần bao phủ thế giới. Không ai biết nó xuất hiện từ đâu, cũng chẳng ai hiểu điều gì đang tồn tại bên trong nó.
-
-Giữa những tín hiệu đứt đoạn, một cái tên liên tục xuất hiện:
-
-TRẠM SỐ 0.
-
-Không ai biết nơi đó là gì.
-
-Không ai biết ai đang phát tín hiệu.
-
-Và đáng sợ nhất, có vẻ như tất cả những chuyện này đã từng xảy ra trước đây.
-
-Nếu một ngày bạn nhận được tín hiệu từ tương lai, liệu bạn có dám tin vào nó?
-
-“Có những tín hiệu không bao giờ nên được trả lời.”.",
-     "file": "tan_so_cuoi_cung_chuong_1.docx",
-    "cover": "tan-so-cuoi-cung.jpg"
+    "desc": "Có tín hiệu đến từ tương lai.\n\nTrong khi đó, một màn sương trắng bí ẩn mang tên WHITE VEIL dần bao phủ thế giới.\n\nGiữa những tín hiệu đứt đoạn, một cái tên liên tục xuất hiện: TRẠM SỐ 0.\n\nNếu một ngày bạn nhận được tín hiệu từ tương lai, liệu bạn có dám tin vào nó?\n\n“Có những tín hiệu không bao giờ nên được trả lời.”",
+    "file": "tan_so_cuoi_cung_chuong_1.docx",
+    "cover": "tan-so-cuoi-cung.png"
   }
 ]
