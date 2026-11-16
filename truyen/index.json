@@ -6,7 +6,7 @@
     "genre": "Khoa Huyễn",
     "status": "Đang ra",
     "desc": "Có tín hiệu đến từ tương lai.\n\nTrong khi đó, một màn sương trắng bí ẩn mang tên WHITE VEIL dần bao phủ thế giới.\n\nGiữa những tín hiệu đứt đoạn, một cái tên liên tục xuất hiện: TRẠM SỐ 0.\n\nNếu một ngày bạn nhận được tín hiệu từ tương lai, liệu bạn có dám tin vào nó?\n\n“Có những tín hiệu không bao giờ nên được trả lời.”",
-    "file": "tan_so_cuoi_cung_chuong_1.docx",
+   "file": ["tan_so_cuoi_cung_chuong_1.docx", "tan_so_cuoi_cung_chuong_2.docx"],
    "cover": "tan-so-cuoi-cung.png?v=2"
   }
 ]
